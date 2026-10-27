@@ -5,7 +5,7 @@ Juego interactivo de **realidad mixta (pantalla dividida)** basado en el
 en un derrumbe lleva el WTS; un rescatista lo localiza con un rastreador LoRa
 mediante una mecánica de **“calor o frío”** (la señal crece al acercarse).
 
-![Boceto WTS](docs/wts-boceto.png)
+![Boceto WTS](docs/bocetoWTS.png)
 
 ## Cómo jugar
 
